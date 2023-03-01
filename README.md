@@ -1,10 +1,10 @@
-# TÍTULO DO PROJETO
+# Letra Independente
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Desenvolvimento de Aplicação Interativa`
 
-`SEMESTRE`
+`Eixo 2`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
