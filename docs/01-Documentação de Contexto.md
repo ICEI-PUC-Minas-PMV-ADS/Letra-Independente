@@ -23,9 +23,10 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+O escritor (acadêmico, cientista, estudante) utiliza uma formatação técnica na divulgação de informações, que traz dificuldade de compreensão para um público leigo. A plataforma estimula a avaliação dos textos por parte dos leitores, em função do nível de clareza, objetividade, e compreensão apresentados. Ainda, proporciona ao escritor se tornar um divulgador independente de informações relevantes para a sociedade, quebrando a barreira entre academia e os leitores em geral.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+O cientista tem dificuldade de propagar informações relevantes de forma que a sociedade entenda. O cientista tem dificuldade que quebrar barreira entre o meio acadêmico e sociedade. O nosso projeto tem o intuito de fornecer uma plataforma que proporcione ao acadêmico se tornar um divulgador independente de informações relevantes para a sociedade, quebrando a barreira entre academia e os leitores em geral.
+
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
