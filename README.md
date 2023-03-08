@@ -6,7 +6,7 @@
 
 `Eixo 2`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Nosso projeto é um blog, onde o escritor possa explicar assuntos complexos para o público geral de forma simples e acessível. Serão textos baseados em pesquisa fundamentada, contudo caraterizam-se por serem descomplicados para o leitor que busca uma fonte de informação independente.
 
 ## Integrantes
 
