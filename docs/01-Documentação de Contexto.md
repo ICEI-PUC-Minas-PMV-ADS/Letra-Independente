@@ -20,13 +20,15 @@ A complexidade das informações disponibilizadas muitas vezes dificulta a compr
 > - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
+Objetivo Geral:
+Ter um local de livre acesso aos escritores, onde assuntos complexos sejam abordados de maneira clara e objetiva para o público em geral.
+Desenvolver uma plataforma de livre acesso para escritores, onde possam explicar informações sobre assuntos complexos com o intuito de proporcionar ao leitor um entendimento assertivo.
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+Objetivos Específicos:
+Oferecer no blog uma forma do leitor expressar o grau de compreensão do texto colocado pelo escritor; 
+Organizar os textos de acordo com a média das avaliações dos leitores, em função do grau de compreensão destes;
+Proporcionar ao escritor anexar a matéria, artigo, do qual será o ponto de partida em que ele desenvolverá a narrativa, explicação de forma simples para o leitor; 
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
