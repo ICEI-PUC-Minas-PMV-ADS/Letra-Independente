@@ -10,7 +10,7 @@ A definição exata do problema, bem como os pontos mais relevantes a serem abor
 | Persona  | Emanuel Nepei| Maria Naves | Leandro Noli |
 | ------------- | ------------- | ------------- | ------------- |
 | Idade  | 35 anos  | 23 anos | 27 anos |
-| Ocupação  | Escritor, Jornalist, Especialista em Astronomia  | Estudante de jornalismo, Redator independente  | Trbalhador Autônomo |
+| Ocupação  | Escritor, Jornalista, Especialista em Astronomia  | Estudante de jornalismo, Redator independente  | Trabalhador Autônomo |
 | Aplicativos  | Twitter, Facebook, Instagram  | Instagram, Twitter  | Uber, Instagram, Facebook |
 | Motivações  | Ver uma nave espacial de perto, morar fora do país, escrever um livro | Trabalhar como redator em um jornal renomado, ajudar pessoas a formarem opiniões | Fazer um trabalho significativo, contribuir para um mundo melhor |
 | Insatisfações  | Matérias e textos vinculados na mídia muito científicos, com termos específicos e difíceis para leitores que não possuem conhecimento prévio sobre o assunto | Assuntos do cotidiano escritos de forma específica e com termos técnicos, que geram confusão no leitor e dificuldade no entendimento e formação de opinião sobre o assunto | Falta de informações escritas de maneira fácil para pessoas leigas entenderem de forma clara |
