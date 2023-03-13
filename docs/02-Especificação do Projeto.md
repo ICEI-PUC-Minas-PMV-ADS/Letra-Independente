@@ -8,7 +8,7 @@ A definição exata do problema, bem como os pontos mais relevantes a serem abor
 ## Personas
 
 1)
-persona: Emanuel Nepei
+Persona: Emanuel Nepei
 idade:  35 anos
 Ocupação: Escritor / Jornalista / Especialista em Astronomia  
 Aplicativos: Twitter, Facebook, Instagram
