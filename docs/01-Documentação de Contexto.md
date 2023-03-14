@@ -4,7 +4,7 @@ Em um ambiente com um forte fluxo de informações divergentes ou até contradit
 
 Não obstante, estudiosos, pesquisadores, escritores em geral, podem enfrentar dificuldades na tentativa de inserção entre os canais que dominam os meios de comunicação. Bem como enfrentar dificuldades ao repassar a complexidade do conhecimento ou das informações abordados, de uma maneira que alcance um público leigo, ou não especialista.
 
-O espaço ocupado pelas grandes plataformas de comunicação projeta uma barreira à entrada de escritores independentes (acadêmicos, científicos, pesquisadores, estudantes). A complexidade na apresentação das informações ao público mais amplo muitas vezes traz outra barreira, de compreensão entre sociedade e meio acadêmico.
+O espaço ocupado pelas grandes plataformas de comunicação projeta uma barreira à entrada de escritores independentes (acadêmicos, científicos, pesquisadores, estudantes). A complexidade na apresentação das informações ao público mais amplo, muitas vezes, traz outra barreira de comunicação. Uma lacuna cogntiva entre o alcance de compreensão dos leitores em geral, e o grau de conhecimento oferecido pelo escritor.
 
 A solução proposta objetiva proporcionar uma plataforma para a inserção de novos conhecimentos acadêmico/científicos relevantes que alcancem o público geral.
 
