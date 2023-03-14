@@ -25,6 +25,13 @@ A definição exata do problema, bem como os pontos mais relevantes a serem abor
 | Emanuel | Trocar informações sobre astronomia com mais pessoas | Encontrar outros pontos de vista e opiniões sobre o assunto |
 | Emanuel | Escrever sobre astronomia de forma desconstruída para que leigos também entendam | Aproximar pessoas que têm interesse por um mesmo assunto mas às vezes não possuem conhecimento |
 | Emanuel | Explicar termos científicos e acadêmicos presentes nos textos do dia a dia | Leitores aproveitarem um texto com teor técnico de maneira mais intuitiva |
+| Maria | Ler textos de outros escritores sobre variados assuntos | Conhecer outros estilos de escrita, conhecer o trabalho dos colegas de profissão
+| Maria | Escrever sobre pautas importantes e relevantes para a população | Ajudar pessoas a formarem opiniões e entenderem assuntos do cotidiano de maneira descomplicada
+| Maria | Criar uma base com todos os seus textos já escritos | Ter um portfólio para apresentar em entrevistas de estágios, trabalhos
+| Leandro | Ler notícias de forma simples sem palavras técnicas | Entender com clareza o real impacto das notícias em sua vida 
+| Leandro | Ler sobre temas que gosta de forma desconstruída | Falar com pessoas que têm o mesmo gosto e ouvir outros pontos de vista
+| Leandro | Filtrar os assuntos de maior interesse | Entender melhor os assuntos que lhe agradam
+
 
 
 
