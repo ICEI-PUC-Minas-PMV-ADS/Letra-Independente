@@ -1,8 +1,8 @@
 # Introdução
 
-Em um ambiente com um forte fluxo de informações divergentes ou até contraditórias, muitas vezes é desafiador obter clareza ao se informar. 
+Em um ambiente com um forte fluxo de informações divergentes, ou até contraditórias, muitas vezes é desafiador obter clareza ao se informar. 
 
-O espaço ocupado pelas grandes plataformas de comunicação projeta uma barreira à entrada de escritores independentes (acadêmicos, científicos, pesquisadores, estudantes). Não obstante, estudiosos, pesquisadores, escritores em geral, enfrentam desafios na tentativa de inserção entre os canais que dominam os meios de comunicação.
+O espaço ocupado pelas grandes plataformas de comunicação projeta uma barreira à entrada de escritores independentes (acadêmicos, científicos, pesquisadores, estudantes). Não obstante, escritores em geral enfrentam desafios na tentativa de inserção entre os canais que dominam os meios de comunicação.
 
 Bem como, enfrentam dificuldades ao compartilhar todo o aprendizado a ser absorvido, em sua integralidade. A complexidade na apresentação das informações ao público mais amplo, muitas vezes, traz outra barreira de comunicação. Uma lacuna cogntiva entre o alcance de compreensão dos leitores em geral, e o grau de conhecimento oferecido pelo escritor.
 
