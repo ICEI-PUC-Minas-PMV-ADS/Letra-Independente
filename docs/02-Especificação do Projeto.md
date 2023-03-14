@@ -80,3 +80,4 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ## Diagrama de Casos de Uso
 
+![Casos de uso](https://user-images.githubusercontent.com/111434777/225167656-c64315e9-9061-4fa7-ba32-34d06a191f07.jpg)
