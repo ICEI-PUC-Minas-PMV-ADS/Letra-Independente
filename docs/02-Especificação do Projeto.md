@@ -48,6 +48,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 | RF01 | Permitir que o leitor através do blog, consiga expressar se entendeu ou não o texto por meio de um mecanismo de like ou dislike | Alta |
 | RF02 | O site deve apresentar na página inicial uma forma do leitor conseguir fazer login | Alta |
 | RF03 | O sistema deve permitir que o leitor favoritar o autor ou texto | Baixa |
+| RF04 | O site deve permitir o compartilhamento dos textos em redes sociais | Alta | 
+| RF05 | O Blog deve permitir que o leitor visualize o perfil do escritor | Baixa |
+| RF06 | O sistema deve permitir que o leitor faça um cadastro, permitindo personalizar com foto e descrição | Média |
+
 
 
 
@@ -55,6 +59,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 | ID | Descrição do Requisito | Prioridade |
 | ------------- | ------------- | ------------- |
 | RNF01 | O site deve ser compatível com navegadores mais utilizados no mercado como Mozilla, Chrome, Edge | Alta |
+| RNF02 | O Blog será publicado no Github | Alta |
+| RNF03 | A plataforma será responsivo, permitindo sua navegação via mobile | Média |
+| RNF04 | O Blog será desenvolvido na linguagem, CSS, HTML, JavaScript, .NET e C# | Alta |
+| RNF05 | O sistema deve impedir avaliação dos textos por pessoas que não estão cadastradas | Alta |
+| RNF06 | A interface do Blog deve ser fácil de usar e entender | Alta |
+
 
 
 
@@ -62,6 +72,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 | ID | Descrição do Requisito |
 | ------------- | ------------- |
 | RE01 | O projeto deverá ser entregue até 19/06/2023 |
+| RE02 | O aplicativo deve se restringir às tecnologias básicas da Web no Frontend e back |
+| RE03 | A equipe não pode subcontratar o desenvolvimento do trabalho |
+
 
 
 
