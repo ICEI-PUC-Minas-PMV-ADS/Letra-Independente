@@ -15,8 +15,7 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de
 
 ## Modelo ER (Projeto Conceitual)
 
-[D.E.R..pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/Letra-Independente/files/11069181/D.E.R.pdf)
-
+![D E R](https://user-images.githubusercontent.com/111434777/227725176-7dd62d0b-076b-4db8-ae6f-90da970e53e3.jpg)
 
 O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.
 
