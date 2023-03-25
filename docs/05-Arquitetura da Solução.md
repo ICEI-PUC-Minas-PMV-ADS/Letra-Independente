@@ -15,6 +15,9 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de
 
 ## Modelo ER (Projeto Conceitual)
 
+[D.E.R..pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/Letra-Independente/files/11069181/D.E.R.pdf)
+
+
 O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.
 
 Sugestão de ferramentas para geração deste artefato: LucidChart e Draw.io.
