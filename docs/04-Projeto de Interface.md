@@ -14,9 +14,6 @@ O diagrama apresenta o estudo do fluxo de interação do usuário com a aplicaç
 ![Letra Independente@2x](https://user-images.githubusercontent.com/99608391/228086172-a76813c1-7077-4dce-8809-7ad3d1d56188.png)
 
 
-> **Links Úteis**:
-> - [Fluxograma online: seis sites para fazer gráfico sem instalar nada | Produtividade | TechTudo](https://www.techtudo.com.br/listas/2019/03/fluxograma-online-seis-sites-para-fazer-grafico-sem-instalar-nada.ghtml)
-
 ## Wireframes
 
 [Projeto Letra Independente.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/Letra-Independente/files/11071825/Projeto.Letra.Independente.pdf)
