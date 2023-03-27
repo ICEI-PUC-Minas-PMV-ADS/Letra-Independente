@@ -36,7 +36,7 @@ A coordenadora nacional do festival internacional de divulgação científica, N
 
 Já o professor do Instituto de Física da USP Mikiya Muramatsu trouxe no mesmo evento USP Analisa que “É preciso cada vez mais dar boas informações, tornar o cidadão crítico do ponto de vista da ciência. Do ponto de vista educacional, então, nem se fala. Porque a educação vai levar à ciência e depois à tecnologia. Um país que não coloca a educação como prioridade número zero dificilmente vai ter um desenvolvimento adequado”.
 
-Ainda, o mestre em Divulgação da Ciência, Tecnologia, e Saúde David Ayrolla dos Santos apresenta os principais desafios da divulgação científica, onde se observa o "pouco espaço nas mídias tradicionais para divulgação científica" e "desconhecimento de grande parte da população sobre os conceitos, métodos, e procedimentos científicos". A aplicação proposta aborda esses dois desafios.
+Ainda, o mestre em Divulgação da Ciência, Tecnologia, e Saúde David Ayrolla dos Santos apresenta em sua dissertação de defesa de tese os principais desafios da divulgação científica, onde se observa o "pouco espaço nas mídias tradicionais para divulgação científica" e "desconhecimento de grande parte da população sobre os conceitos, métodos, e procedimentos científicos". A aplicação proposta aborda esses dois desafios.
 
 ![tabela justificativa](https://user-images.githubusercontent.com/111434777/228079656-1605e6cb-58ca-4aa7-b1cf-eeeca7d5266e.jpg)
 
