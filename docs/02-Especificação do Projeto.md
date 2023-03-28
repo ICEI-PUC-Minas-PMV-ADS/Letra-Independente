@@ -45,12 +45,14 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 | ID | Descrição do Requisito | Prioridade |
 | ------------- | ------------- | ------------- |
-| RF01 | Permitir que o leitor através do blog, consiga expressar se entendeu ou não o texto por meio de um mecanismo de like ou dislike | Alta |
-| RF02 | O site deve apresentar na página inicial uma forma do leitor conseguir fazer login | Alta |
-| RF03 | O sistema deve permitir que o leitor favoritar o autor ou texto | Baixa |
-| RF04 | O site deve permitir o compartilhamento dos textos em redes sociais | Alta | 
-| RF05 | O Blog deve permitir que o leitor visualize o perfil do escritor | Baixa |
-| RF06 | O sistema deve permitir que o leitor faça um cadastro, permitindo personalizar com foto e descrição | Média |
+| RF01 | A aplicação deve permitir que o leitor cadastrado, consiga expressar se entendeu ou não o texto por meio de um mecanismo de avaliação do tipo… | Alta |
+| RF02 | A aplicação deve deve permitir que os usuários cadastrados faça login | Alta |
+| RF03 | A aplicação deve permitir que o escritor e o leitor cadastrado favorite os textos e/ou autores que desejar  | Baixa |
+| RF04 | A aplicação deve permitir o compartilhamento de textos em redes sociais por leitores e escritores cadastrados ou não | Alta | 
+| RF05 | A aplicação deve permitir que o escritor publique textos  | Baixa |
+| RF06 | A aplicação deve permitir que leitores e escritores criem um perfil que seja personalizável com foto e uma breve biografia | Média |
+| RF07 | A aplicação deve permitir que o escritor atribua uma categoria aos textos publicados  | Alta |
+| RF08 | A aplicação deve permitir que o escritor visualize um relatório das avaliações de cada texto | Média |
 
 
 
@@ -58,12 +60,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 ### Requisitos não Funcionais
 | ID | Descrição do Requisito | Prioridade |
 | ------------- | ------------- | ------------- |
-| RNF01 | O site deve ser compatível com navegadores mais utilizados no mercado como Mozilla, Chrome, Edge | Alta |
-| RNF02 | O Blog será publicado no Github | Alta |
-| RNF03 | A plataforma será responsivo, permitindo sua navegação via mobile | Média |
-| RNF04 | O Blog será desenvolvido na linguagem, CSS, HTML, JavaScript, .NET e C# | Alta |
-| RNF05 | O sistema deve impedir avaliação dos textos por pessoas que não estão cadastradas | Alta |
-| RNF06 | A interface do Blog deve ser fácil de usar e entender | Alta |
+| RNF01 | A aplicação deve ser compatível com navegadores mais utilizados no mercado como Mozilla, Chrome, Edge | Alta |
+| RNF02 | ... | Alta |
+| RNF03 | A aplicação será responsiva, permitindo sua navegação via mobile | Média |
+| RNF04 | A aplicação será desenvolvida na linguagem, CSS, HTML, JavaScript, .NET e C# | Alta |
+| RNF05 | A aplicação deve impedir avaliação dos textos por pessoas que não estão cadastradas | Alta |
+| RNF06 | A interface da aplicação deve ser fácil de usar e entender | Alta |
 
 
 
@@ -80,4 +82,4 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ## Diagrama de Casos de Uso
 
-![Casos de uso](https://user-images.githubusercontent.com/111434777/225167656-c64315e9-9061-4fa7-ba32-34d06a191f07.jpg)
+![Casos de Uso](https://user-images.githubusercontent.com/114936348/228318093-7b007d7b-5d63-431a-9ab3-6e244e1b2023.jpg)
