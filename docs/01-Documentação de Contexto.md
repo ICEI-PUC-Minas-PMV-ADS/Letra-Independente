@@ -34,9 +34,11 @@ Já o professor do Instituto de Física da USP Mikiya Muramatsu trouxe no mesmo 
 
 Ainda, o mestre em Divulgação da Ciência, Tecnologia, e Saúde David Ayrolla dos Santos apresenta em sua dissertação de defesa de tese os principais desafios da divulgação científica, onde se observa o "pouco espaço nas mídias tradicionais para divulgação científica" e "desconhecimento de grande parte da população sobre os conceitos, métodos, e procedimentos científicos". A aplicação proposta aborda esses dois desafios.
 
-![tabela justificativa](https://user-images.githubusercontent.com/111434777/228079656-1605e6cb-58ca-4aa7-b1cf-eeeca7d5266e.jpg)
-  
-  Fonte: SANTOS, D. “Fala, galera”: Quem são e o que pensam divulgadores científicos brasileiros no YouTube. Dissertação (Pós Graduação em em Divulgação da Ciência, Tecnologia e Saúde) – Fundação Oswaldo Cruz. Rio de Janeiro, p. 222. 2021.
+![tabela justificativa](https://user-images.githubusercontent.com/111434777/228079656-1605e6cb-58ca-4aa7-b1cf-eeeca7d5266e.jpg) 
+
+<sub>Fonte: SANTOS, D. “Fala, galera”: Quem são e o que pensam divulgadores científicos brasileiros no YouTube. Dissertação (Pós Graduação em em Divulgação da Ciência, Tecnologia e Saúde) – Fundação Oswaldo Cruz. Rio de Janeiro, p. 222. 2021.</sub>
+ 
+
 
 O escritor (acadêmico, cientista, estudante) utiliza uma formatação técnica na divulgação de informações, que traz dificuldade de compreensão para um público leigo. A plataforma estimula a avaliação dos textos por parte dos leitores, em função do nível de clareza, objetividade, e compreensão apresentados. Ainda, proporciona ao escritor se tornar um divulgador independente de informações relevantes para a sociedade, quebrando a barreira entre academia e os leitores em geral.
 
