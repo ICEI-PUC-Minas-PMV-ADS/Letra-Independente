@@ -36,11 +36,11 @@ Ainda, o mestre em Divulgação da Ciência, Tecnologia, e Saúde David Ayrolla 
 
 ![tabela justificativa](https://user-images.githubusercontent.com/111434777/228079656-1605e6cb-58ca-4aa7-b1cf-eeeca7d5266e.jpg) 
 
-<sub>Fonte: SANTOS, D. “Fala, galera”: Quem são e o que pensam divulgadores científicos brasileiros no YouTube. Dissertação (Pós Graduação em em Divulgação da Ciência, Tecnologia e Saúde) – Fundação Oswaldo Cruz. Rio de Janeiro, p. 222. 2021.</sub>
- 
-
-
-O escritor (acadêmico, cientista, estudante) utiliza uma formatação técnica na divulgação de informações, que traz dificuldade de compreensão para um público leigo. A plataforma estimula a avaliação dos textos por parte dos leitores, em função do nível de clareza, objetividade, e compreensão apresentados. Ainda, proporciona ao escritor se tornar um divulgador independente de informações relevantes para a sociedade, quebrando a barreira entre academia e os leitores em geral.
+> <sub>Fonte: SANTOS, D. **“Fala, galera”: Quem são e o que pensam divulgadores científicos brasileiros no YouTube.** Dissertação (Mestrado em em Divulgação da Ciência, Tecnologia e Saúde) - Fundação Oswaldo Cruz. Casa de Oswaldo Cruz. Rio de Janeiro, p. 222. 2021.
+</sub>
+  
+  
+  O escritor (acadêmico, cientista, estudante) utiliza uma formatação técnica na divulgação de informações, que traz dificuldade de compreensão para um público leigo. A plataforma estimula a avaliação dos textos por parte dos leitores, em função do nível de clareza, objetividade, e compreensão apresentados. Ainda, proporciona ao escritor se tornar um divulgador independente de informações relevantes para a sociedade, quebrando a barreira entre academia e os leitores em geral.
 
 O cientista tem dificuldade de propagar informações relevantes de forma que a sociedade entenda. O cientista tem dificuldade que quebrar barreira entre o meio acadêmico e sociedade. O nosso projeto tem o intuito de fornecer uma plataforma que proporcione ao acadêmico se tornar um divulgador independente de informações relevantes para a sociedade, quebrando a barreira entre academia e os leitores em geral.
 
