@@ -10,6 +10,8 @@ O diagrama de classes ilustra graficamente como será a estrutura do software, e
 
 ![image](https://user-images.githubusercontent.com/111437215/229619422-547ce6c2-7d19-495f-90f0-50380e750492.png)
 
+https://sgapucminasbr-my.sharepoint.com/:u:/r/personal/1419985_sga_pucminas_br/_layouts/15/doc2.aspx?sourcedoc=%7Bc23553c5-f437-4360-806d-be4e101e7acd%7D&action=edit&wdPreviousSession=d0dc8744-ad13-41e3-9371-ebd1f0604eb6&wdnewandopenct=0&wdo=7&wdOrigin=OFFICECOM-WacAppStartPages&wdTpl=TM16403381&wdLcid=1046&wdPreviousCorrelation=c3b7469e-fd4f-4fa0-b68e-d0b8a83cafab&or=PrevCreateNew
+
 
 
 ## Modelo ER (Projeto Conceitual)
