@@ -7,7 +7,7 @@ Foram definidas e acordadas as ferramentas necessárias para manutenção dos c�
 | Ambiente  | Plataforma | Link |
 | ------------- | ------------- | ------------- |
 | Repositório do projeto | GitHub  | [Repositório](https://github.com/ICEI-PUC-Minas-PMV-ADS/Letra-Independente)  |
-| Projeto de Interface e Wireframes  | Figma  | [Wireframes](https://www.figma.com/file/37tuI0fqRkiwVT7pmrNdU0/Projeto-Letra-Independente?node-id=0-1)  |
+| Projeto de Interface e Wireframes  | Whimsical / Figma | [Proj. Interface](https://whimsical.com/letra-independente-diagrama-de-fluxo-UH1eLW2dGooGYAXstgWvrh@2Ux7TurymMxftZQK6bkL) / [Wireframes](https://www.figma.com/file/37tuI0fqRkiwVT7pmrNdU0/Projeto-Letra-Independente?node-id=0-1)  |
 | Gerenciamento do projeto  | GitHub Project  | [Gerenciamento](https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/278)  |
 
 ## Controle de Versão
