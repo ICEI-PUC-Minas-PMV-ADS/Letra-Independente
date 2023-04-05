@@ -21,7 +21,13 @@ O diagrama apresenta o estudo do fluxo de interação do usuário com a aplicaç
 
 https://www.figma.com/file/37tuI0fqRkiwVT7pmrNdU0/Projeto-Letra-Independente?t=Wk2N6Cg5bygpsyoF-0
 
+Página principal
 ![image](https://user-images.githubusercontent.com/111437215/227781721-769fdc4d-aafb-41fe-9edf-30ffa7e740d6.png)
 
+Artigo
 ![image](https://user-images.githubusercontent.com/111437215/227781765-1f1bcba8-4a0e-40be-a874-18c0a2493da1.png)
+
+Quem somos
+![image](https://user-images.githubusercontent.com/111437215/229954383-2041f356-94fd-4396-a638-cd69bcb3b566.png)
+
 
