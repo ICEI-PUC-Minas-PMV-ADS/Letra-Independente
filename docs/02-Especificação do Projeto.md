@@ -61,7 +61,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 | ID | Descrição do Requisito | Prioridade |
 | ------------- | ------------- | ------------- |
 | RNF01 | A aplicação deve ser compatível com navegadores mais utilizados no mercado como Mozilla, Chrome, Edge | Alta |
-| RNF02 | ... | Alta |
+| RNF02 | A aplicação deve apresentar como opção de login um API de perfil do google | Alta |
 | RNF03 | A aplicação será responsiva, permitindo sua navegação via mobile | Média |
 | RNF04 | A aplicação será desenvolvida na linguagem, CSS, HTML, JavaScript, .NET e C# | Alta |
 | RNF05 | A aplicação deve impedir avaliação dos textos por pessoas que não estão cadastradas | Alta |
