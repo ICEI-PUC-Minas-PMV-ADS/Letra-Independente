@@ -45,14 +45,14 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 | ID | Descrição do Requisito | Prioridade |
 | ------------- | ------------- | ------------- |
-| RF01 | A aplicação deve permitir que o leitor cadastrado, consiga expressar se entendeu ou não o texto por meio de um mecanismo de avaliação do tipo… | Alta |
+| RF01 | A aplicação deve permitir que o usuário cadastrado expresse se entendeu ou não o texto, por meio de um mecanismo de avaliação do tipo "entendi / não entendi"| Alta |
 | RF02 | A aplicação deve deve permitir que os usuários cadastrados façam login | Alta |
-| RF03 | A aplicação deve permitir que o escritor e o leitor cadastrado favorite os textos e/ou autores que desejar  | Baixa |
-| RF04 | A aplicação deve permitir o compartilhamento de textos em redes sociais por leitores e escritores cadastrados ou não | Alta | 
+| RF03 | A aplicação deve permitir que o usuário cadastrado favorite os textos e/ou autores que desejar  | Baixa |
+| RF04 | A aplicação deve permitir o compartilhamento de textos em redes sociais por usuários cadastrados ou não | Alta | 
 | RF05 | A aplicação deve permitir que o escritor publique textos  | Baixa |
-| RF06 | A aplicação deve permitir que leitores e escritores criem um perfil que seja personalizável com foto e uma breve biografia | Média |
+| RF06 | A aplicação deve permitir que usuários cadastrados criem um perfil que seja personalizável com foto e uma breve biografia | Média |
 | RF07 | A aplicação deve permitir que o escritor atribua uma categoria aos textos publicados  | Alta |
-| RF08 | A aplicação deve permitir que o escritor visualize um relatório das avaliações de cada texto | Média |
+| RF08 | A aplicação deve permitir que o escritor visualize um relatório das avaliações de cada texto por ele publicado | Média |
 
 
 
