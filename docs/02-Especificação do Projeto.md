@@ -50,7 +50,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 | RF03 | A aplicação deve permitir que o usuário cadastrado favorite os textos e/ou escritores que desejar  | Baixa |
 | RF04 | A aplicação deve permitir o compartilhamento de textos em redes sociais por usuários cadastrados ou não | Alta | 
 | RF05 | A aplicação deve permitir que o escritor publique textos  | Baixa |
-| RF06 | A aplicação deve permitir que usuários cadastrados criem um perfil que seja personalizável com foto e uma breve biografia | Média |
+| RF06 | A aplicação deve permitir que usuários cadastrados criem um perfil que seja personalizável com foto e uma breve biografia | Alta |
 | RF07 | A aplicação deve permitir que o escritor atribua uma categoria aos textos publicados  | Alta |
 | RF08 | A aplicação deve permitir que o escritor visualize um relatório das avaliações de cada texto por ele publicado | Média |
 
@@ -82,4 +82,5 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ## Diagrama de Casos de Uso
 
-![Casos de Uso](https://user-images.githubusercontent.com/114936348/228318093-7b007d7b-5d63-431a-9ab3-6e244e1b2023.jpg)
+![Casos de Uso](https://user-images.githubusercontent.com/114936348/230646718-c34b18d5-022a-4b90-a8dd-c794832d7311.jpg)
+
