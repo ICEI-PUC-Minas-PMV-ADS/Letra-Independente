@@ -54,6 +54,5 @@ Serão utilizadas as seguintes tecnologias no decorrer do desenvolvimento:
 
 
 ## Hospedagem
-
-Explique como a hospedagem e o lançamento da plataforma foi feita.
+A aplicação será hospedada no Microsoft Azure 
 
