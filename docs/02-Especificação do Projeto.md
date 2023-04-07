@@ -51,8 +51,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 | RF04 | A aplicação deve permitir o compartilhamento de textos em redes sociais por usuários cadastrados ou não | Alta | 
 | RF05 | A aplicação deve permitir que o escritor publique textos  | Baixa |
 | RF06 | A aplicação deve permitir que usuários cadastrados criem um perfil que seja personalizável com foto e uma breve biografia | Alta |
-| RF07 | A aplicação deve permitir que o escritor atribua uma categoria aos textos publicados  | Alta |
-| RF08 | A aplicação deve permitir que o escritor visualize um relatório das avaliações de cada texto por ele publicado | Média |
+| RF07 | A aplicação deve permitir que o escritor visualize um relatório das avaliações de cada texto por ele publicado | Média |
 
 
 
