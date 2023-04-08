@@ -47,7 +47,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 | ------------- | ------------- | ------------- |
 | RF01 | A aplicação deve apresentar a funcionalidade de cadastro de usuários | Alta |
 | RF02 | A aplicação deve deve permitir que os usuários cadastrados façam login | Alta |
-| RF03 | A aplicação deve permitir que o usuário cadastrado favorite os textos e/ou escritores que desejar  | Baixa |
+| RF03 | A aplicação deve permitir que o usuário cadastrado favorite os textos que desejar  | Baixa |
 | RF04 | A aplicação deve permitir o compartilhamento de textos em redes sociais por usuários cadastrados ou não | Alta | 
 | RF05 | A aplicação deve permitir que o escritor publique textos  | Baixa |
 | RF06 | A aplicação deve permitir que usuários cadastrados criem um perfil que seja personalizável com foto e uma breve biografia | Alta |
