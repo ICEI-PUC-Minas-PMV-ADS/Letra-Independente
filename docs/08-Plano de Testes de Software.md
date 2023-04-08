@@ -44,7 +44,7 @@
 | Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://github.com/ICEI-PUC-Minas-PMV-ADS/Letra-Independente/tree/main/src/index.html<br> - Fazer login na aplicação <br> - Clicar em "Artigos" <br> - Acessar o artigo que desejar <br> - Clicar em "Avaliar Texto" <br> - Marcar uma das opções de avaliação <br> - Inserir um comentário se desejar <br> - Clicar em "Concluir Avaliação" |
 |Critério de Êxito | - O artigo foi avaliado com sucesso. |
 |  	|  	|
-| **Caso de Teste** 	| **CT-08 – Exibir Relatório**	|
+| **Caso de Teste** 	| **CT-08 – Extrair Relatório**	|
 |Requisito Associado | RF-08	- A aplicação deve permitir que o escritor visualize um relatório das avaliações de cada texto por ele publicado.	 |
 | Objetivo do Teste 	| Verificar se o escritor consegue avaliar um artigo. |
 | Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://github.com/ICEI-PUC-Minas-PMV-ADS/Letra-Independente/tree/main/src/index.html<br> - Fazer login na aplicação <br> - Clicar em "Minha conta" <br> - Clicar em "Meus artigos" <br> - Acessar o artigo que desejar <br> - Clicar em extrair relatório <br>  |
