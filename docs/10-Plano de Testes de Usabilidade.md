@@ -21,6 +21,14 @@ Tarefas: Os participantes serão solicitados a concluir as seguintes tarefas ao 
     7)Tente extrair um relatório das avaliação de um texto.
     
     
-    
+    Métricas: Mediremos as seguintes métricas durante o teste de usabilidade:
+
+    Taxa de sucesso: a porcentagem de participantes que conseguem concluir cada tarefa.
+    Facilidade de uso: os participantes avaliarão o quão fácil ou difícil foi concluir cada tarefa em uma escala de 1 a 5.
+    Satisfação: os participantes avaliarão sua satisfação geral com a aplicação em uma escala de 1 a 5.
+
+Análise de dados: Analisaremos os dados do teste de usabilidade para identificar quaisquer problemas de usabilidade e áreas de melhoria no design da aplicação. Também procuraremos padrões nos dados para identificar comportamentos e preferências comuns do usuário.
+
+Relatório: Criaremos um relatório resumindo os resultados do teste de usabilidade, incluindo recomendações para melhorar o design do blog e a experiência do usuário. O relatório incluirá um resumo das métricas e descobertas, juntamente com capturas de tela e citações dos participantes.
     
 
