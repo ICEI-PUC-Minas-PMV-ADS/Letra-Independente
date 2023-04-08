@@ -17,7 +17,7 @@ https://lucid.app/lucidchart/a9a6226f-df9d-4536-8732-0734e638f3c7/edit?beaconFlo
 
 ## Modelo ER (Projeto Conceitual)
 
-![D E R](https://user-images.githubusercontent.com/111434777/227725176-7dd62d0b-076b-4db8-ae6f-90da970e53e3.jpg)
+![d e r 2](https://user-images.githubusercontent.com/111434777/230729806-6fa7bf58-4796-48d1-a785-7651dc593fba.jpg)
 
 O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.
 
