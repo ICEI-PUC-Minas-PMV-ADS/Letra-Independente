@@ -10,7 +10,6 @@ Nosso projeto é um blog, onde o escritor possa explicar assuntos complexos para
 
 ## Integrantes
 
-* Gabriela Matos Xavier
 * Grazielly Pereira De Oliveira
 * Juliano Ricaldoni Alves De Melo
 * Matheus De França Loyola Mourão
