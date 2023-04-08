@@ -30,7 +30,7 @@ A definição exata do problema, bem como os pontos mais relevantes a serem abor
 | Maria | Criar uma base com todos os seus textos já escritos | Ter um portfólio para apresentar em entrevistas de estágios, trabalhos
 | Leandro | Ler notícias de forma simples sem palavras técnicas | Entender com clareza o real impacto das notícias em sua vida 
 | Leandro | Ler sobre temas que gosta de forma desconstruída | Falar com pessoas que têm o mesmo gosto e ouvir outros pontos de vista
-| Leandro | Filtrar os assuntos de maior interesse | Entender melhor os assuntos que lhe agradam
+| Leandro | Favoritar um artigo | Não perder o artigo e ler quando quiser
 
 
 
