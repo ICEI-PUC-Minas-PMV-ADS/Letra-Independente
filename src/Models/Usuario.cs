@@ -14,8 +14,9 @@ namespace src.Models
         public string Nome { get; set; }  
        
         public string Email { get; set; }
+        public string Senha { get; set; }
         public string DescricaoPerfil { get; set; }
-        public IFormFile Foto { get; set; }
+        //public IFormFile Foto { get; set; }
 
     }
 }
