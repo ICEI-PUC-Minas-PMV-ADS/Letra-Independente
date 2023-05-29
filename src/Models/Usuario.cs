@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using System.Security;
 
 namespace src.Models
 {
@@ -14,6 +15,8 @@ namespace src.Models
         public string Nome { get; set; }  
        
         public string Email { get; set; }
+        [Required(ErrorMessage = "Obrigatório informar senha")]
+        [DataType(DataType.Password)]
         public string Senha { get; set; }
         public string DescricaoPerfil { get; set; }
         //public IFormFile Foto { get; set; }

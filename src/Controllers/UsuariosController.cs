@@ -57,6 +57,7 @@ namespace src.Controllers
         {
             if (ModelState.IsValid)
             {
+                usuario.Senha = BCrypt.Net.BCrypt.HashPassword(usuario.Senha);
                 _context.Add(usuario);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
@@ -96,6 +97,7 @@ namespace src.Controllers
             {
                 try
                 {
+                    usuario.Senha = BCrypt.Net.BCrypt.HashPassword(usuario.Senha);
                     _context.Update(usuario);
                     await _context.SaveChangesAsync();
                 }
