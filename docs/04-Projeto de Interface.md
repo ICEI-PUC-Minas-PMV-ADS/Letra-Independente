@@ -11,7 +11,7 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 O diagrama apresenta o estudo do fluxo de interação do usuário com a aplicação.
 
-![Letra Independente@2x](https://user-images.githubusercontent.com/99608391/228086172-a76813c1-7077-4dce-8809-7ad3d1d56188.png)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/Letra-Independente/assets/111437215/ceba100c-0eee-4220-a08c-5f9d91d0e89b)
 
 
 ## Wireframes
