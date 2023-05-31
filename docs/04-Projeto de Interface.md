@@ -20,7 +20,8 @@ O diagrama apresenta o estudo do fluxo de interação do usuário com a aplicaç
 
 Página inicial  ![1 - página inicial](https://user-images.githubusercontent.com/114936348/230785621-ff43538d-6071-44bb-bc91-9dc2305dc0d4.jpg)
   
-Login/Cadastro  ![2 - login e cadastro](https://user-images.githubusercontent.com/114936348/230785647-650875b4-7690-4d4f-82e6-4a06f49e74fc.jpg)
+Login/Cadastro  RF01 	A aplicação deve apresentar a funcionalidade de cadastro de usuários / RF02 	A aplicação deve deve permitir que os usuários cadastrados façam login
+![2 - login e cadastro](https://user-images.githubusercontent.com/114936348/230785647-650875b4-7690-4d4f-82e6-4a06f49e74fc.jpg)
   
 Formulário e Dados de acesso  ![3 - dados de acesso e formulário](https://user-images.githubusercontent.com/114936348/230785648-daac1aea-9cc6-45e4-ad1d-8af47290375c.jpg)
   
@@ -38,5 +39,6 @@ Artig avaliado  ![9 - artigo avaliado](https://user-images.githubusercontent.com
   
 Publicar artigo  ![10 - publicar artigo](https://user-images.githubusercontent.com/114936348/230785656-3433990d-145f-4fa0-8bb8-1a5dcdad373b.jpg)
   
-Extrair relatório  ![11 - extrair relatório](https://user-images.githubusercontent.com/114936348/230785658-28450bcc-46fc-489f-981e-d9aa3c319111.jpg)
+Extrair relatório RF08 	A aplicação deve permitir que o escritor visualize um relatório das avaliações de cada texto por ele publicado
+![11 - extrair relatório](https://user-images.githubusercontent.com/114936348/230785658-28450bcc-46fc-489f-981e-d9aa3c319111.jpg)
 
