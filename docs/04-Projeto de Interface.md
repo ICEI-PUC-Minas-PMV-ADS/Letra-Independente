@@ -39,6 +39,6 @@ Artig avaliado  ![9 - artigo avaliado](https://user-images.githubusercontent.com
   
 Publicar artigo  ![10 - publicar artigo](https://user-images.githubusercontent.com/114936348/230785656-3433990d-145f-4fa0-8bb8-1a5dcdad373b.jpg)
   
-Extrair relatório RF08 	A aplicação deve permitir que o escritor visualize um relatório das avaliações de cada texto por ele publicado
+
 ![11 - extrair relatório](https://user-images.githubusercontent.com/114936348/230785658-28450bcc-46fc-489f-981e-d9aa3c319111.jpg)
 
