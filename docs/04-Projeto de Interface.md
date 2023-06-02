@@ -23,7 +23,10 @@ Página inicial  ![1 - página inicial](https://user-images.githubusercontent.co
 Login/Cadastro  RF01 	A aplicação deve apresentar a funcionalidade de cadastro de usuários / RF02 	A aplicação deve deve permitir que os usuários cadastrados façam login
 ![2 - login e cadastro](https://user-images.githubusercontent.com/114936348/230785647-650875b4-7690-4d4f-82e6-4a06f49e74fc.jpg)
   
-Formulário e Dados de acesso RF01 A aplicação deve apresentar a funcionalidade de cadastro de usuários
+Formulário e Dados de acesso
+RF01 A aplicação deve apresentar a funcionalidade de cadastro de usuários
+RF06 	A aplicação deve permitir que usuários cadastrados gerenciem sua conta personalizando o perfil com foto e uma breve biografia
+
 ![3 - dados de acesso e formulário](https://user-images.githubusercontent.com/114936348/230785648-daac1aea-9cc6-45e4-ad1d-8af47290375c.jpg)
   
 Usuário logado  ![4 - usuário logado](https://user-images.githubusercontent.com/114936348/230785966-e2ba255e-902c-46c1-820a-6317053d1c9d.jpg)
