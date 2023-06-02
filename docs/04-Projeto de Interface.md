@@ -30,7 +30,7 @@ Usuário logado  ![4 - usuário logado](https://user-images.githubusercontent.co
   
 Minha conta  ![5 - minha conta](https://user-images.githubusercontent.com/114936348/230785650-18f06d54-174d-4655-afaf-a7decb3e7541.jpg)
   
-Relação de artigos RF08 	A aplicação deve permitir que o escritor visualize um relatório das avaliações de cada texto por ele publicado
+Relação de artigos 
 
 ![6 - relação de artigos](https://user-images.githubusercontent.com/114936348/230785651-3fb2e2bb-71e1-4e9f-9e8f-f386916fdb08.jpg)
   
