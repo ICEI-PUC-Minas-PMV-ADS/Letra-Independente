@@ -23,13 +23,16 @@ Página inicial  ![1 - página inicial](https://user-images.githubusercontent.co
 Login/Cadastro  RF01 	A aplicação deve apresentar a funcionalidade de cadastro de usuários / RF02 	A aplicação deve deve permitir que os usuários cadastrados façam login
 ![2 - login e cadastro](https://user-images.githubusercontent.com/114936348/230785647-650875b4-7690-4d4f-82e6-4a06f49e74fc.jpg)
   
-Formulário e Dados de acesso  ![3 - dados de acesso e formulário](https://user-images.githubusercontent.com/114936348/230785648-daac1aea-9cc6-45e4-ad1d-8af47290375c.jpg)
+Formulário e Dados de acesso RF01 A aplicação deve apresentar a funcionalidade de cadastro de usuários
+![3 - dados de acesso e formulário](https://user-images.githubusercontent.com/114936348/230785648-daac1aea-9cc6-45e4-ad1d-8af47290375c.jpg)
   
 Usuário logado  ![4 - usuário logado](https://user-images.githubusercontent.com/114936348/230785966-e2ba255e-902c-46c1-820a-6317053d1c9d.jpg)
   
 Minha conta  ![5 - minha conta](https://user-images.githubusercontent.com/114936348/230785650-18f06d54-174d-4655-afaf-a7decb3e7541.jpg)
   
-Relação de artigos  ![6 - relação de artigos](https://user-images.githubusercontent.com/114936348/230785651-3fb2e2bb-71e1-4e9f-9e8f-f386916fdb08.jpg)
+Relação de artigos RF08 	A aplicação deve permitir que o escritor visualize um relatório das avaliações de cada texto por ele publicado
+
+![6 - relação de artigos](https://user-images.githubusercontent.com/114936348/230785651-3fb2e2bb-71e1-4e9f-9e8f-f386916fdb08.jpg)
   
 Ler artigo  ![7 - ler artigo](https://user-images.githubusercontent.com/114936348/230785652-c3b255b1-a2ba-44a0-a9bd-dbe5b07a278f.jpg)
   
@@ -37,7 +40,9 @@ Avaliar artigo  ![8 - avaliar artigo](https://user-images.githubusercontent.com/
   
 Artig avaliado  ![9 - artigo avaliado](https://user-images.githubusercontent.com/114936348/230785655-e3db5601-c8e2-4c74-8c90-3f860483f760.jpg)
   
-Publicar artigo  ![10 - publicar artigo](https://user-images.githubusercontent.com/114936348/230785656-3433990d-145f-4fa0-8bb8-1a5dcdad373b.jpg)
+Publicar artigo  RF05 	A aplicação deve permitir que o escritor publique textos
+
+![10 - publicar artigo](https://user-images.githubusercontent.com/114936348/230785656-3433990d-145f-4fa0-8bb8-1a5dcdad373b.jpg)
   
 
 ![11 - extrair relatório](https://user-images.githubusercontent.com/114936348/230785658-28450bcc-46fc-489f-981e-d9aa3c319111.jpg)
