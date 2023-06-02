@@ -20,7 +20,10 @@ O diagrama apresenta o estudo do fluxo de interação do usuário com a aplicaç
 
 Página inicial  ![1 - página inicial](https://user-images.githubusercontent.com/114936348/230785621-ff43538d-6071-44bb-bc91-9dc2305dc0d4.jpg)
   
-Login/Cadastro  RF01 	A aplicação deve apresentar a funcionalidade de cadastro de usuários / RF02 	A aplicação deve deve permitir que os usuários cadastrados façam login
+Login/Cadastro  
+
+RF01 	A aplicação deve apresentar a funcionalidade de cadastro de usuários / RF02 	A aplicação deve deve permitir que os usuários cadastrados façam login
+RF02 	A aplicação deve deve permitir que os usuários cadastrados façam login
 ![2 - login e cadastro](https://user-images.githubusercontent.com/114936348/230785647-650875b4-7690-4d4f-82e6-4a06f49e74fc.jpg)
   
 Formulário e Dados de acesso
