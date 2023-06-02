@@ -22,7 +22,7 @@ Página inicial  ![1 - página inicial](https://user-images.githubusercontent.co
   
 Login/Cadastro  
 
-RF01 	A aplicação deve apresentar a funcionalidade de cadastro de usuários / RF02 	A aplicação deve deve permitir que os usuários cadastrados façam login
+RF01 	A aplicação deve apresentar a funcionalidade de cadastro de usuários 
 RF02 	A aplicação deve deve permitir que os usuários cadastrados façam login
 ![2 - login e cadastro](https://user-images.githubusercontent.com/114936348/230785647-650875b4-7690-4d4f-82e6-4a06f49e74fc.jpg)
   
