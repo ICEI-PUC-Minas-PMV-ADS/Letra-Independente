@@ -36,7 +36,9 @@ Relação de artigos
   
 Ler artigo  ![7 - ler artigo](https://user-images.githubusercontent.com/114936348/230785652-c3b255b1-a2ba-44a0-a9bd-dbe5b07a278f.jpg)
   
-Avaliar artigo  ![8 - avaliar artigo](https://user-images.githubusercontent.com/114936348/230785654-a14fdf66-8f76-4ca8-9889-9e80dd7dca37.jpg)
+Avaliar artigo RF07 	A aplicação deve permitir que o usuário cadastrado expresse se entendeu ou não o texto, por meio de um mecanismo de avaliação do tipo "entendi / não entendi"
+
+![8 - avaliar artigo](https://user-images.githubusercontent.com/114936348/230785654-a14fdf66-8f76-4ca8-9889-9e80dd7dca37.jpg)
   
 Artig avaliado  ![9 - artigo avaliado](https://user-images.githubusercontent.com/114936348/230785655-e3db5601-c8e2-4c74-8c90-3f860483f760.jpg)
   
