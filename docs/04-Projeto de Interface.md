@@ -28,7 +28,9 @@ Formulário e Dados de acesso RF01 A aplicação deve apresentar a funcionalidad
   
 Usuário logado  ![4 - usuário logado](https://user-images.githubusercontent.com/114936348/230785966-e2ba255e-902c-46c1-820a-6317053d1c9d.jpg)
   
-Minha conta  ![5 - minha conta](https://user-images.githubusercontent.com/114936348/230785650-18f06d54-174d-4655-afaf-a7decb3e7541.jpg)
+Minha conta  	A aplicação deve permitir que usuários cadastrados gerenciem sua conta personalizando o perfil com foto e uma breve biografia
+
+![5 - minha conta](https://user-images.githubusercontent.com/114936348/230785650-18f06d54-174d-4655-afaf-a7decb3e7541.jpg)
   
 Relação de artigos 
 
