@@ -39,7 +39,10 @@ Relação de artigos
 
 ![6 - relação de artigos](https://user-images.githubusercontent.com/114936348/230785651-3fb2e2bb-71e1-4e9f-9e8f-f386916fdb08.jpg)
   
-Ler artigo  ![7 - ler artigo](https://user-images.githubusercontent.com/114936348/230785652-c3b255b1-a2ba-44a0-a9bd-dbe5b07a278f.jpg)
+Ler artigo e campo para favoritar o texto (marcador)
+RF03 	A aplicação deve permitir que o usuário cadastrado favorite (marcador) os textos que desejar
+
+![7 - ler artigo](https://user-images.githubusercontent.com/114936348/230785652-c3b255b1-a2ba-44a0-a9bd-dbe5b07a278f.jpg)
   
 Avaliar artigo RF07 	A aplicação deve permitir que o usuário cadastrado expresse se entendeu ou não o texto, por meio de um mecanismo de avaliação do tipo "entendi / não entendi"
 
