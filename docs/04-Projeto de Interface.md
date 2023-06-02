@@ -44,6 +44,7 @@ Relação de artigos
   
 Ler artigo e campo para favoritar o texto (marcador)
 RF03 	A aplicação deve permitir que o usuário cadastrado favorite (marcador) os textos que desejar
+RF04 	A aplicação deve permitir o compartilhamento de textos em redes sociais por usuários cadastrados ou não
 
 ![7 - ler artigo](https://user-images.githubusercontent.com/114936348/230785652-c3b255b1-a2ba-44a0-a9bd-dbe5b07a278f.jpg)
   
