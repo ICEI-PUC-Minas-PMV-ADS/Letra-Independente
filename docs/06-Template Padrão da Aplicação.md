@@ -1,6 +1,6 @@
 # Template Padrão da Aplicação
 
-# Paleta de cores
+## Paleta de cores
 
 Cores principais utilizadas na aplicação
 
