@@ -52,6 +52,8 @@ O desenho representando o cerébro como um ambiente de desenvolvimento baseado n
 
 ## Aplicação das telas
 
+###Página Inicial
+
 A tela inicial traz a frase "O seu blog para divulgação científica de forma simplificada" já informando do que se trata aplicação. Expôe já na tela inicial, alguns textos para serem clicados.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/Letra-Independente/assets/111437215/0aad50ca-f3fa-4441-a334-be45c0b99d7b)#
