@@ -49,8 +49,12 @@ O desenho representando o cerébro como um ambiente de desenvolvimento baseado n
 
 ## Fluxo das telas
 
+Aqui é possível visualizar os caminhos que o usuário fará durante a navegação.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/Letra-Independente/assets/111437215/25d36a0f-2ad9-4cac-83e4-d567345a0a83)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/Letra-Independente/assets/111437215/4156a56d-6702-49e2-afc3-3aca2f4ed2a8)
+
 
 
 
