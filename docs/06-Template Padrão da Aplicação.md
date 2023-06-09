@@ -23,6 +23,14 @@ Nos demais textos da aplicação utilizamos Poppins.
 
 # Componentes
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/Letra-Independente/assets/111437215/a7913fc3-8c42-4b42-a500-6c4a4d19692c) 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/Letra-Independente/assets/111437215/79cc8117-f41f-4b6c-8109-1ad185393cab) 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/Letra-Independente/assets/111437215/a94905a7-3c72-4454-99ed-5a5eb1611463)
+ ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/Letra-Independente/assets/111437215/84f67acb-9b64-4139-8f63-3a00e328ec29) 
+ ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/Letra-Independente/assets/111437215/a67b555e-0e83-4ed7-b8ff-b60efc91fb5e) 
+ ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/Letra-Independente/assets/111437215/ab979b2c-6f4d-4116-b7e8-837ff57f60f5) 
+ ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/Letra-Independente/assets/111437215/0c3b39c2-a2c6-47c9-b2e3-a8dac694fb57)
+ ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/Letra-Independente/assets/111437215/c8b569f6-417f-40e2-94f2-b954c44f5cb2) 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/Letra-Independente/assets/111437215/91a03046-8c48-46f6-8e98-0e1375089077)
 
 
