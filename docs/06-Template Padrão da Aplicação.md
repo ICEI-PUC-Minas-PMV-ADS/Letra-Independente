@@ -43,7 +43,7 @@ As cores do botões em harmonia com a paleta de cores da aplicação.
 
 ## Logotipo
 
-O desenho representando o cerébro como um ambiente de desenvolvimento baseado na busca por conhecimento.
+O desenho do cerébro representando aplicação como um ambiente de desenvolvimento baseado na busca por conhecimento.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/Letra-Independente/assets/111437215/dc40a342-2d53-49b0-9e91-b93423893c30)
 
