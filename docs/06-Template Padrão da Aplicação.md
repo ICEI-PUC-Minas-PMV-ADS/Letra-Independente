@@ -25,6 +25,8 @@ Nos demais textos da aplicação utilizamos Poppins.
 
 # Botões
 
+As cores do botões em harmonia com a paleta de cores da aplicação.
+
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/Letra-Independente/assets/111437215/79cc8117-f41f-4b6c-8109-1ad185393cab) 
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/Letra-Independente/assets/111437215/a94905a7-3c72-4454-99ed-5a5eb1611463)
