@@ -23,7 +23,8 @@ Nos demais textos da aplicação utilizamos Poppins.
 
 # Componentes
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/Letra-Independente/assets/111437215/a7913fc3-8c42-4b42-a500-6c4a4d19692c) 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/Letra-Independente/assets/111437215/91a03046-8c48-46f6-8e98-0e1375089077)
+
 
 
  
