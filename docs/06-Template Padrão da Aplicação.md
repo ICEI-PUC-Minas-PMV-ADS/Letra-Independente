@@ -34,17 +34,13 @@ As cores do botões em harmonia com a paleta de cores da aplicação.
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/Letra-Independente/assets/111437215/84f67acb-9b64-4139-8f63-3a00e328ec29)  
 
 
-
-
-
-
-
-
 # Buscadores
 
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/Letra-Independente/assets/111437215/5c8e96a4-64dd-4607-96e3-18bec5f87eaf)
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/Letra-Independente/assets/111437215/a7913fc3-8c42-4b42-a500-6c4a4d19692c) 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/Letra-Independente/assets/111437215/06c4069b-b2aa-4536-93fe-9833031d709e)
+
 
 
 
