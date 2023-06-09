@@ -31,7 +31,7 @@ Nos demais textos da aplicação utilizamos Poppins.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/Letra-Independente/assets/111437215/84f67acb-9b64-4139-8f63-3a00e328ec29)  
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/Letra-Independente/assets/111437215/a67b555e-0e83-4ed7-b8ff-b60efc91fb5e) 
+
 
 
 
