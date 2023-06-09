@@ -41,6 +41,22 @@ As cores do botões em harmonia com a paleta de cores da aplicação.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/Letra-Independente/assets/111437215/06c4069b-b2aa-4536-93fe-9833031d709e)
 
+# Logotipo
+
+O desenho representando o cerébro como um ambiente de desenvolvimento baseado na busca por conhecimento.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/Letra-Independente/assets/111437215/dc40a342-2d53-49b0-9e91-b93423893c30)
+
+# Fluxo das telas
+
+
+# Aplicação das telas
+
+A tela inicial traz a frase "O seu blog para divulgação científica de forma simplificada" já informando do que se trata aplicação. Expôe já na tela inicial, alguns textos para serem clicados.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/Letra-Independente/assets/111437215/513f9060-f725-43d8-b8a9-0a7103e1816d)
+
+
 
 
 
