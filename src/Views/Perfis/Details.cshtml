@@ -1,4 +1,4 @@
-﻿@model src.Models.Usuario
+﻿@model src.Models.Perfil
 
 @{
     ViewData["Title"] = "Details";
@@ -7,26 +7,26 @@
 <h1>Details</h1>
 
 <div>
-    <h4>Usuario</h4>
+    <h4>Perfil</h4>
     <hr />
     <dl class="row">
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Nome)
+            @Html.DisplayNameFor(model => model.NomePerfil)
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Nome)
+            @Html.DisplayFor(model => model.NomePerfil)
         </dd>
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Email)
+            @Html.DisplayNameFor(model => model.DescricaoPerfil)
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Email)
+            @Html.DisplayFor(model => model.DescricaoPerfil)
         </dd>
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Senha)
+            @Html.DisplayNameFor(model => model.Usuario)
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Senha)
+            @Html.DisplayFor(model => model.Usuario.Nome)
         </dd>
     </dl>
 </div>

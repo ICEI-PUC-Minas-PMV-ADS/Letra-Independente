@@ -18,8 +18,8 @@ namespace src.Models
         [Required(ErrorMessage = "Obrigatório informar senha")]
         [DataType(DataType.Password)]
         public string Senha { get; set; }
-        public string DescricaoPerfil { get; set; }
-        //public IFormFile Foto { get; set; }
+
+        public Perfil Perfil { get; set; }
 
     }
 }

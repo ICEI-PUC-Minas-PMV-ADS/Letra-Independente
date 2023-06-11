@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using src.Models;
 
 namespace src.Models
 {
@@ -8,5 +9,7 @@ namespace src.Models
         { }
 
         public DbSet<Usuario> Usuarios { get; set; }
+
+        public DbSet<src.Models.Perfil> Perfil { get; set; }
     }
 }
