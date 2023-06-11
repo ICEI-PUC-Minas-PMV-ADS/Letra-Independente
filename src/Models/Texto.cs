@@ -27,10 +27,14 @@ namespace src.Models
         public int Estrutura { get; set; }
 
         [Display(Name = "Tipo de texto")]
-        [Required(ErrorMessage = "obrigatório informar a Tipo")]
+        //verificardepois[Required(ErrorMessage = "obrigatório informar a Tipo")]
         public ClassificacaoTexto Tipo { get; set; }
 
-       
+        public int IdPerfil { get; set; }
+        [ForeignKey("IdPerfil")]
+        public Perfil Perfil { get; set; }
+
+
     }
 
     public enum ClassificacaoTexto

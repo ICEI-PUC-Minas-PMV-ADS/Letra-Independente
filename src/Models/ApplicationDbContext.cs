@@ -11,5 +11,7 @@ namespace src.Models
         public DbSet<Usuario> Usuarios { get; set; }
 
         public DbSet<src.Models.Perfil> Perfil { get; set; }
+
+        public DbSet<src.Models.Texto> Texto { get; set; }
     }
 }
