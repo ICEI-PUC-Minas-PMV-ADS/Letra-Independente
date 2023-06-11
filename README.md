@@ -10,8 +10,9 @@ Nosso projeto é um blog, onde o escritor possa explicar assuntos complexos para
 
 ## Integrantes
 
+* Gustavo Henrique Pereira
 * Grazielly Pereira De Oliveira
-* Juliano Ricaldoni Alves De Melo
+* Lucas Russo
 * Matheus De França Loyola Mourão
 * Reinaldo Theodoro Marquezini
 * Yasmin Liquer Navarro
