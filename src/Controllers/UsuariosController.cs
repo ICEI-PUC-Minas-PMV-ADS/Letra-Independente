@@ -18,6 +18,11 @@ namespace src.Controllers
             _context = context;
         }
 
+        public IActionResult Login()
+        {
+            return View();
+        }
+
         // GET: Usuarios
         public async Task<IActionResult> Index()
         {
