@@ -1,14 +1,21 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
+using System.Security.Claims;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Authorization.Infrastructure;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Identity.Client;
 using src.Models;
 
 namespace src.Controllers
 {
+    [Authorize]
     public class UsuariosController : Controller
     {
         private readonly ApplicationDbContext _context;
@@ -17,12 +24,60 @@ namespace src.Controllers
         {
             _context = context;
         }
-
+        [AllowAnonymous]
         public IActionResult Login()
         {
             return View();
         }
 
+        [HttpPost]
+        [AllowAnonymous]
+        public async Task<IActionResult> Login([Bind("Email, Senha")] Usuario usuario)
+        {
+            var user = await _context.Usuarios
+             .FirstOrDefaultAsync(m => m.Email == usuario.Email);
+
+            if (user == null)
+            {
+                ViewBag.message = "Email e/ou senha inválidos";
+                return View();
+            }
+
+            bool isCorrectPassword = BCrypt.Net.BCrypt.Verify(usuario.Senha, user.Senha);
+
+            if(isCorrectPassword)
+            {
+                var claims = new List<Claim>
+                {
+                    new Claim(ClaimTypes.Name, user.Nome),
+                    new Claim(ClaimTypes.NameIdentifier, user.Nome),
+                };
+
+                var userIdentity = new ClaimsIdentity(claims,"login");
+
+                ClaimsPrincipal claimsPrincipal = new ClaimsPrincipal(userIdentity);
+
+                var props = new AuthenticationProperties
+                {
+                    AllowRefresh = true,
+                    ExpiresUtc = DateTime.Now.ToLocalTime().AddHours(3),
+                    IsPersistent = true,
+                };
+
+                await HttpContext.SignInAsync(claimsPrincipal, props);
+                return Redirect("/");
+            }
+
+            ViewBag.message = "Email e/ou senha inválidos";
+            return View();
+        }
+
+        public async Task<IActionResult> Logout()
+        {
+            await HttpContext.SignOutAsync();
+            return RedirectToAction("Login", "Usuarios");
+
+        }
         // GET: Usuarios
         public async Task<IActionResult> Index()
         {
