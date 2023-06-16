@@ -13,6 +13,6 @@ namespace src.Models
         public DbSet<src.Models.Perfil> Perfil { get; set; }
 
         public DbSet<src.Models.Texto> Texto { get; set; }
-        public DbSet<src.Models.Postagem> Postagem { get; set; }
+
     }
 }
