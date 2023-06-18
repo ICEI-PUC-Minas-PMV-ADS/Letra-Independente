@@ -1,10 +1,10 @@
-﻿@model src.Models.Texto
+﻿@model src.Models.TextoViewModel
 
 @{
     ViewData["Title"] = "Create";
 }
 
-<h1>Create</h1>
+<h1>Publicar Artigo</h1>
 
 <h4>Texto</h4>
 <hr />
@@ -13,28 +13,24 @@
         <form asp-action="Create">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
-                <label asp-for="Titulo" class="control-label"></label>
-                <input asp-for="Titulo" class="form-control" />
-                <span asp-validation-for="Titulo" class="text-danger"></span>
+                <label asp-for="Texto.Titulo" class="control-label"></label>
+                <input asp-for="Texto.Titulo" class="form-control" />
+                <span asp-validation-for="Texto.Titulo" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Data" class="control-label"></label>
-                <input asp-for="Data" class="form-control" />
-                <span asp-validation-for="Data" class="text-danger"></span>
+                <label asp-for="Texto.Data" class="control-label"></label>
+                <input asp-for="Texto.Data" class="form-control" type="date"/>
+                <span asp-validation-for="Texto.Data" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Estrutura" class="control-label"></label>
-                <input asp-for="Estrutura" class="form-control" />
-                <span asp-validation-for="Estrutura" class="text-danger"></span>
+                <label asp-for="Texto.Tipo" class="control-label"></label>
+                <select asp-for="Texto.Tipo" class="form-control" asp-items="Html.GetEnumSelectList<ClassificacaoTexto>()"></select>
+                <span asp-validation-for="Texto.Tipo" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Tipo" class="control-label"></label>
-                <select asp-for="Tipo" class="form-control"></select>
-                <span asp-validation-for="Tipo" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="IdPerfil" class="control-label"></label>
-                <select asp-for="IdPerfil" class ="form-control" asp-items="ViewBag.IdPerfil"></select>
+                <label asp-for="Texto.Artigo" class="control-label"></label>
+                <input asp-for="Texto.Artigo" class="form-control" />
+                <span asp-validation-for="Texto.Artigo" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <input type="submit" value="Create" class="btn btn-primary" />

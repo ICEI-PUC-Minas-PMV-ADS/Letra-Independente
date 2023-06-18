@@ -11,43 +11,40 @@ namespace src.Models
     {
 
         [Key]
-
         public int Id { get; set; }    
 
         [Display(Name ="Título")]
-        [Required(ErrorMessage ="obrigatório informar a Título")]
+        [Required(ErrorMessage ="Obrigatório informar o Título")]
 
         public string Titulo { get; set; }
 
         public DateTime Data { get; set; }
 
-
-        [Required(ErrorMessage = "obrigatório informar a Estrutura")]
-
-        public int Estrutura { get; set; }
-
-        [Display(Name = "Tipo de texto")]
-        //verificardepois[Required(ErrorMessage = "obrigatório informar a Tipo")]
+        [Display(Name = "Tag")]
+        [Required(ErrorMessage = "Obrigatório informar a tag")]
         public ClassificacaoTexto Tipo { get; set; }
+
+        [Display(Name="Texto")]
+        [Required(ErrorMessage = "Escreva aqui o seu texto")]
+        public string Artigo { get; set; }
 
         public int IdPerfil { get; set; }
         [ForeignKey("IdPerfil")]
         public Perfil Perfil { get; set; }
-
-
     }
 
     public enum ClassificacaoTexto
-
     {
-        CiênciasExatasedaTerra,
+        [Display(Name = "Ciencias Exatas e da Terra")]
+        CiênciasExatasEdaTerra,
+        [Display(Name = "Ciencias Humanas")]
         CiênciasHumanas,
+        [Display(Name = "Ciencias Sociais")]
         CiênciasSociais,
-        Outros,
-        somenteexatas   
-
-           
-
+        [Display(Name = "Somente Exatas")]
+        SomenteExatas,
+        [Display(Name = "Outros")]
+        Outros
     }
 
 
