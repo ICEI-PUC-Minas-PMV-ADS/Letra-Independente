@@ -72,6 +72,7 @@ namespace src.Controllers
             return View();
         }
 
+        [AllowAnonymous]
         public async Task<IActionResult> Logout()
         {
             await HttpContext.SignOutAsync();
