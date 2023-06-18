@@ -1,9 +1,6 @@
 
 
-## PROJETO LETRA INDENPENDENTE
 
-
-## Identidade Visual (Marca, Design)
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/Letra-Independente/assets/111437215/359e0484-adb4-46df-bf6f-09b445fe54e8)
 
