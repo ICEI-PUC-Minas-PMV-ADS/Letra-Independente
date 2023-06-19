@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Claims;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
@@ -9,6 +11,7 @@ using src.Models;
 
 namespace src.Controllers
 {
+    [Authorize]
     public class PerfisController : Controller
     {
         private readonly ApplicationDbContext _context;
@@ -56,13 +59,18 @@ namespace src.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,NomePerfil,DescricaoPerfil,IdUsuario,Instagram,Facebook,Twitter")] Perfil perfil)
+        public async Task<IActionResult> Create([Bind("Id,NomePerfil,DescricaoPerfil,Instagram,Facebook,Twitter")] Perfil perfil)
         {
+
+            var userId = int.Parse(User.FindFirstValue(ClaimTypes.NameIdentifier));
+            var profile = perfil;
+            profile.IdUsuario = userId;
+
             if (ModelState.IsValid)
             {
-                _context.Add(perfil);
-                await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+               _context.Add(profile);
+               await _context.SaveChangesAsync();
+               return RedirectToAction(nameof(Index));
             }
             ViewData["IdUsuario"] = new SelectList(_context.Usuarios, "Id", "Nome", perfil.IdUsuario);
             return View(perfil);

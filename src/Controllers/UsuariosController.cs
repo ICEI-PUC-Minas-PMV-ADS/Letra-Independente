@@ -50,7 +50,7 @@ namespace src.Controllers
                 var claims = new List<Claim>
                 {
                     new Claim(ClaimTypes.Name, user.Nome),
-                    new Claim(ClaimTypes.NameIdentifier, user.Nome),
+                    new Claim(ClaimTypes.NameIdentifier, user.Id.ToString())
                 };
 
                 var userIdentity = new ClaimsIdentity(claims,"login");

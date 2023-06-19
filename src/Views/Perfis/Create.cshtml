@@ -1,13 +1,10 @@
 ﻿@model src.Models.Perfil
 
 @{
-    ViewData["Title"] = "Create";
+    ViewData["Title"] = "Criar Perfil";
 }
 
-<h1>Create</h1>
 
-<h4>Perfil</h4>
-<hr />
 <div class="row">
     <div class="col-md-4">
         <form asp-action="Create">
@@ -21,10 +18,6 @@
                 <label asp-for="DescricaoPerfil" class="control-label"></label>
                 <input asp-for="DescricaoPerfil" class="form-control" />
                 <span asp-validation-for="DescricaoPerfil" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="IdUsuario" class="control-label"></label>
-                <select asp-for="IdUsuario" class ="form-control" asp-items="ViewBag.IdUsuario"></select>
             </div>
             <div class="form-group">
                 <label asp-for="Instagram" class="control-label"></label>
@@ -46,10 +39,6 @@
             </div>
         </form>
     </div>
-</div>
-
-<div>
-    <a asp-action="Index">Back to List</a>
 </div>
 
 @section Scripts {
