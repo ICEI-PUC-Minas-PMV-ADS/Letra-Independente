@@ -21,6 +21,15 @@
             <th>
                 @Html.DisplayNameFor(model => model.Usuario)
             </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Instagram)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Facebook)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Twitter)
+            </th>
             <th></th>
         </tr>
     </thead>
@@ -35,6 +44,15 @@
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.Usuario.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Instagram)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Facebook)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Twitter)
             </td>
             <td>
                 <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |

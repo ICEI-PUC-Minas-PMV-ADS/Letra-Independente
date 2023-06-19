@@ -22,6 +22,12 @@ namespace src.Models
         [ForeignKey("IdUsuario")]
         public Usuario Usuario { get; set; }
 
+        public string Instagram { get; set; }
+
+        public string Facebook { get; set; }
+
+        public string Twitter { get; set; }
+
         public ICollection<Texto> Texto { get; set; } 
 
     }

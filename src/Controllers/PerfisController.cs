@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
@@ -10,7 +9,6 @@ using src.Models;
 
 namespace src.Controllers
 {
-    [Authorize]
     public class PerfisController : Controller
     {
         private readonly ApplicationDbContext _context;
@@ -58,7 +56,7 @@ namespace src.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,NomePerfil,DescricaoPerfil,IdUsuario")] Perfil perfil)
+        public async Task<IActionResult> Create([Bind("Id,NomePerfil,DescricaoPerfil,IdUsuario,Instagram,Facebook,Twitter")] Perfil perfil)
         {
             if (ModelState.IsValid)
             {
@@ -92,7 +90,7 @@ namespace src.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,NomePerfil,DescricaoPerfil,IdUsuario")] Perfil perfil)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,NomePerfil,DescricaoPerfil,IdUsuario,Instagram,Facebook,Twitter")] Perfil perfil)
         {
             if (id != perfil.Id)
             {
