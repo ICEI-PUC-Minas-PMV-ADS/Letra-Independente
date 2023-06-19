@@ -23,6 +23,9 @@
                         </li>
                         @if (User.Identity.IsAuthenticated)
                         {
+                            <li class="nav-item">
+                                <a class="nav-link text-white" asp-area="" asp-controller="Textos" asp-action="Create">Publicar</a>
+                            </li>
                             <li class="nav-item text-white">
                                 <span class="nav-link text-white font-weight-bold">Olá @User.Identity.Name ! </span>
                             </li>

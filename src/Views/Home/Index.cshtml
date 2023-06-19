@@ -1,4 +1,6 @@
-﻿@{
+﻿@model IEnumerable<src.Models.Texto>
+
+@{
     ViewData["Title"] = "Início";
 }
 
@@ -9,9 +11,16 @@
     <div class="mt-5">
         <h2 class="font-weight-bold text-center mb-5">Postagens Recentes</h2>
         <div class="w-100 h-100 d-flex justify-content-around">
-            <div style="width:250px !important; height:300px !important; background-color: red !important;"></div>
-            <div style="width:250px !important; height:300px !important; background-color: red !important;"></div>
-            <div style="width:250px !important; height:300px !important; background-color: red !important;"></div>
+@foreach (var item in Model)
+{
+            <div style="width:250px !important; height:300px !important;">
+                <h2>@Html.DisplayFor(modelItem => item.Titulo)</h2>
+                <h4>@Html.DisplayFor(modelItem => item.Data)</h4>
+                <span>@Html.DisplayFor(modelItem => item.Tipo)</span>
+                <span>@Html.DisplayFor(modelItem => item.Perfil.NomePerfil)</span>
+                <span>@Html.DisplayFor(modelItem => item.Artigo)</span>
+            </div>
+}
         </div>
     </div>
 </div>

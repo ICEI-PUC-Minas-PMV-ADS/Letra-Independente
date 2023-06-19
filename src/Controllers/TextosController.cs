@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Claims;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
@@ -60,8 +61,13 @@ namespace src.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Titulo,Data,Tipo,Artigo,IdPerfil")] Texto texto)
+        public async Task<IActionResult> Create([Bind("Id,Titulo,Data,Tipo,Artigo")] Texto texto)
         {
+            var userId = int.Parse(User.FindFirstValue(ClaimTypes.NameIdentifier));
+            var profile = await _context.Perfil.FirstOrDefaultAsync(m => m.IdUsuario == userId);
+            var text = texto;
+            text.IdPerfil = profile.Id;
+
             if (ModelState.IsValid)
             {
                 _context.Add(texto);
