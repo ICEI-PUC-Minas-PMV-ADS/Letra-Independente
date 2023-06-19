@@ -65,6 +65,14 @@ namespace src.Controllers
                 };
 
                 await HttpContext.SignInAsync(claimsPrincipal, props);
+
+                var profile = await _context.Perfil.FirstOrDefaultAsync(m => m.IdUsuario == user.Id);
+
+                if (profile == null)
+                {
+                    return RedirectToAction("Create", "Perfis");
+                }
+
                 return Redirect("/");
             }
 
