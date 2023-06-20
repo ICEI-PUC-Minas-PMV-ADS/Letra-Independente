@@ -4,50 +4,23 @@
     ViewData["Title"] = "Textos";
 }
 
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.Titulo)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Data)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Tipo)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Artigo)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Perfil)
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-               <a asp-action="Details" asp-route-id="@item.Id">@Html.DisplayFor(modelItem => item.Titulo)</a> 
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Data)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Tipo)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Artigo)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Perfil.NomePerfil)
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
-            </td>
-        </tr>
-}
-    </tbody>
-</table>
+<div class="mt-5">
+    <div class="w-100 h-100 d-flex justify-content-around">
+        @foreach (var item in Model)
+        {
+            <div class=" card text-bg-success mb-3" style="width: 18rem;">
+                <div class="card-body text-center">
+                    <h5 class="card-title">@Html.DisplayFor(modelItem => item.Titulo)</h5>
+                    <p class="card-text">@Html.DisplayFor(modelItem => item.Data)</p>
+                    <p class="card-text">@Html.DisplayFor(modelItem => item.Tipo)</p>
+                    <p class="card-text">@Html.DisplayFor(modelItem => item.Perfil.NomePerfil)</p>
+                    <p class="card-text">@Html.DisplayFor(modelItem => item.Artigo)</p>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                </div>
+            </div>
+
+        }
+    </div>
+</div>

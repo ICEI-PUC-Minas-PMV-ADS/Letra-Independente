@@ -11,16 +11,20 @@
     <div class="mt-5">
         <h2 class="font-weight-bold text-center mb-5">Postagens Recentes</h2>
         <div class="w-100 h-100 d-flex justify-content-around">
-@foreach (var item in Model)
-{
-            <div style="width:250px !important; height:300px !important;">
-                <h2>@Html.DisplayFor(modelItem => item.Titulo)</h2>
-                <h4>@Html.DisplayFor(modelItem => item.Data)</h4>
-                <span>@Html.DisplayFor(modelItem => item.Tipo)</span>
-                <span>@Html.DisplayFor(modelItem => item.Perfil.NomePerfil)</span>
-                <span>@Html.DisplayFor(modelItem => item.Artigo)</span>
-            </div>
-}
+            @foreach (var item in Model)
+            {
+                <div class=" card text-bg-success mb-3" style="width: 18rem;">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">@Html.DisplayFor(modelItem => item.Titulo)</h5>
+                        <p class="card-text">@Html.DisplayFor(modelItem => item.Data)</p>
+                        <p class="card-text">@Html.DisplayFor(modelItem => item.Tipo)</p>
+                        <p class="card-text">@Html.DisplayFor(modelItem => item.Perfil.NomePerfil)</p>
+                        <p class="card-text">@Html.DisplayFor(modelItem => item.Artigo)</p>
+
+                    </div>
+                </div>
+                
+            }
         </div>
     </div>
 </div>
