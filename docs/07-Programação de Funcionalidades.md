@@ -15,5 +15,5 @@
 
 # Instruções de acesso
 
-1 - Acessar o link da aplicação: https://github.com/ICEI-PUC-Minas-PMV-ADS/Letra-Independente
+1 - Acessar o link da aplicação: https://github.com/ICEI-PUC-Minas-PMV-ADS/Letra-Independente <br>
 2 - Se cadastrar na aplicação.
