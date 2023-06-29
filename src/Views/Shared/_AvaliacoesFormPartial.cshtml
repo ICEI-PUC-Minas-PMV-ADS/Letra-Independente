@@ -14,11 +14,20 @@
                 <select asp-for="Entendimento" class="form-control" asp-items="Html.GetEnumSelectList<Entendimento>()"></select>
                 <span asp-validation-for="Entendimento" class="text-danger"></span>
             </div>
-            <input type="hidden" asp-for="IdTexto" value="@ViewBag.IdTexto" />
+            <input type="hidden" asp-for="IdTexto" value="" id="id_texto" />
             <div class="form-group">
                 <input type="submit" value="Create" class="btn btn-primary" />
             </div>
         </form>
     </div>
 </div>
+
+    <script>
+        const [,id] = document.location.href.split('Details');
+
+        const inputIdTexto = document.getElementById("id_texto")
+
+        inputIdTexto.value = id.replace('/','');
+    </script>
+
 
