@@ -11,16 +11,14 @@
             <div class=" card text-bg-success mb-3" style="width: 18rem;">
                 <div class="card-body text-center">
                     <h5 class="card-title">@Html.DisplayFor(modelItem => item.Titulo)</h5>
-                    <p class="card-text">@Html.DisplayFor(modelItem => item.Data)</p>
+                    <p class="card-text">@item.Data.ToString("dd/MM/yyyy")</p>
                     <p class="card-text">@Html.DisplayFor(modelItem => item.Tipo)</p>
                     <p class="card-text">@Html.DisplayFor(modelItem => item.Perfil.NomePerfil)</p>
                     <p class="card-text">@Html.DisplayFor(modelItem => item.Artigo)</p>
-                    <a asp-action="Edit" asp-route-id="@item.Id">Editar</a> |
-                    <a asp-action="Details" asp-route-id="@item.Id">Detalhes</a> |
-                    <a asp-action="Delete" asp-route-id="@item.Id">Deletar</a>
+                    <a asp-action="Details" asp-route-id="@item.Id">Detalhes</a>
                 </div>
             </div>
-
         }
     </div>
 </div>
+

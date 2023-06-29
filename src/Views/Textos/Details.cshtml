@@ -2,43 +2,46 @@
 
 @{
     ViewData["Title"] = "Detalhes";
+    string dataFormatada = Model.Data.ToString("dd/MM/yyyy");
 }
 
-<div>
-
-    <dl class="row">
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Titulo)
-        </dt>
-        <dd class = "col-sm-10">
+<div class="h-100 d-flex justify-content-center">
+    <div >
+        <h1>
             @Html.DisplayFor(model => model.Titulo)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Data)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Data)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Tipo)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Tipo)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Artigo)
-        </dt>
-        <dd class = "col-sm-10">
+        </h1>
+        <h3>
+            @Html.DisplayFor(model => model.Perfil.NomePerfil) | @Html.DisplayFor(model => model.Tipo) | @Html.DisplayFor(model => dataFormatada)
+        </h3>
+        <span>
             @Html.DisplayFor(model => model.Artigo)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Perfil)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Perfil.NomePerfil)
-        </dd>
-    </dl>
-</div>
-<div>
-    <a asp-action="Index">Cancelar</a>
+        </span>
+        <hr />
+        <div class="d-flex justify-content-between">
+            <span>Compartilhe: <a href="">Facebook</a>,<a href="">WhatsApp</a>,<a href="">Twitter</a></span>
+        </div>
+        <div class="d-flex justify-content-center mt-4">
+            <button type="button" class="btn btn-success" data-toggle="modal" data-target="#myModal">Avaliar Texto</button>
+        </div>
+    </div>
+    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="myModalLabel">Como você avalia o seu entendimento ?</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <button class="btn btn-success">Compreendi bem</button>
+                    <button class="btn btn-primary">Compeendi parcialmente</button>
+                    <button class="btn btn-danger">Não compreendi</button>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-success">Concluir avaliação</button>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
