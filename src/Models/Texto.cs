@@ -1,6 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using Microsoft.VisualBasic;
 using System;
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
@@ -31,6 +32,7 @@ namespace src.Models
         public int IdPerfil { get; set; }
         [ForeignKey("IdPerfil")]
         public Perfil Perfil { get; set; }
+        public ICollection<Avaliacao> Avaliacao { get; set; }
     }
 
     public enum ClassificacaoTexto
