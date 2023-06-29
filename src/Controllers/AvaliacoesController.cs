@@ -56,13 +56,13 @@ namespace src.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Comentario,Entendimento,IdTexto")] Avaliacao avaliacao)
+        public async Task<IActionResult> Create([Bind("Id,Comentario,Entendimento, IdTexto")] Avaliacao avaliacao)
         {
             if (ModelState.IsValid)
             {
                 _context.Add(avaliacao);
                 await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+                return View(avaliacao);
             }
             ViewData["IdTexto"] = new SelectList(_context.Texto, "Id", "Artigo", avaliacao.IdTexto);
             return View(avaliacao);
@@ -157,6 +157,11 @@ namespace src.Controllers
             
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
+        }
+
+        public IActionResult AvaliacoesFormPartial()
+        {
+            return PartialView("_AvaliacoesFormPartial");
         }
 
         private bool AvaliacaoExists(int id)

@@ -26,7 +26,7 @@
     </div>
     <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
         <div class="modal-dialog" role="document">
-            <div class="modal-content">
+            <div class="modal-content" id="partialZone">
                 <div class="modal-header">
                     <h5 class="modal-title" id="myModalLabel">Como você avalia o seu entendimento ?</h5>
                     <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
@@ -45,3 +45,20 @@
         </div>
     </div>
 </div>
+
+@section Scripts {
+   <script>
+        $(document).ready(function () {
+            $.ajax({
+                url: '/Avaliacoes/AvaliacoesFormPartial',
+                type: 'GET',
+                success: function (data) {
+                    $('#partialZone').html(data);
+                },
+                error: function (error) {
+                    console.log(error);
+                }
+            });
+        });
+   </script>
+}
