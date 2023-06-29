@@ -10,6 +10,10 @@ CT-05 – Publicar artigo
 
 https://github.com/ICEI-PUC-Minas-PMV-ADS/Letra-Independente/assets/44789183/8761cfd3-42d1-426f-8c9d-fd058cb721ad
 
+CT-07 – Avaliar Artigo
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/Letra-Independente/assets/44789183/01026283-f868-431f-8e2d-0be79ab4e0e7
+
 
 
 
