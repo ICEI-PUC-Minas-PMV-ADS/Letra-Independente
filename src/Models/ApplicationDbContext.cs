@@ -14,5 +14,7 @@ namespace src.Models
 
         public DbSet<src.Models.Texto> Texto { get; set; }
 
+        public DbSet<src.Models.Avaliacao> Avaliacao { get; set; }
+
     }
 }

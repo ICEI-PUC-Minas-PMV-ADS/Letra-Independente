@@ -22,7 +22,10 @@ namespace src.Models
 
 public enum Entendimento
 {
-     Entendi,
-     EntendiParcialmente,
-     NaoEntendi,
+    [Display(Name = "Entendi")]
+    Entendi,
+    [Display(Name = "Entendi Parcialmente")]
+    EntendiParcialmente,
+    [Display(Name = "Não Entendi")]
+    NaoEntendi,
 }
