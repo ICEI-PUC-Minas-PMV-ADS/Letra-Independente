@@ -4,11 +4,12 @@
     ViewData["Title"] = "Create";
 }
 
-<h1>Publicar Artigo</h1>
-<hr />
-<div class="row">
-    <div class="col-md-4">
-        <form asp-action="Create">
+
+<div class="h-100 d-flex justify-content-center" >
+    <div class="mt-5" style="min-width: 900px">
+            <h1>Publicar Artigo</h1>
+            <hr />
+            <form asp-action="Create">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
                 <label asp-for="Texto.Titulo" class="control-label"></label>
@@ -27,7 +28,7 @@
             </div>
             <div class="form-group">
                 <label asp-for="Texto.Artigo" class="control-label"></label>
-                <input asp-for="Texto.Artigo" class="form-control" />
+                <textarea asp-for="Texto.Artigo" class="form-control" style="height: 250px"></textarea>
                 <span asp-validation-for="Texto.Artigo" class="text-danger"></span>
             </div>
             <div class="form-group">
@@ -36,7 +37,7 @@
                 </div>
             </div>
         </form>
-    </div>
+        </div>
 </div>
 
 <div>

@@ -4,12 +4,10 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
-
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
-<table class="table">
+<div class="d-flex w-100 row justify-content-center">
+    <div style="max-width: 1000px" class="mt-5">
+    <h1 class="mb-4">Avaliações sobre os artigos publicados no blog</h1>
+    <table class="table">
     <thead>
         <tr>
             <th>
@@ -21,7 +19,6 @@
             <th>
                 @Html.DisplayNameFor(model => model.Texto)
             </th>
-            <th></th>
         </tr>
     </thead>
     <tbody>
@@ -36,12 +33,9 @@
             <td>
                 @Html.DisplayFor(modelItem => item.Texto.Artigo)
             </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
-            </td>
         </tr>
 }
     </tbody>
 </table>
+    </div>
+</div>

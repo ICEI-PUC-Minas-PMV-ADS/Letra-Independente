@@ -20,9 +20,12 @@
         <div class="d-flex justify-content-between">
             <span>Compartilhe: <a href="">Facebook</a>,<a href="">WhatsApp</a>,<a href="">Twitter</a></span>
         </div>
-        <div class="d-flex justify-content-center mt-4">
-            <button type="button" class="btn btn-success" data-toggle="modal" data-target="#myModal">Avaliar Texto</button>
-        </div>
+        @if (User.Identity.IsAuthenticated)
+        {
+            <div class="d-flex justify-content-center mt-4">
+                <button type="button" class="btn btn-success" data-toggle="modal" data-target="#myModal">Avaliar Texto</button>
+            </div>
+        }
     </div>
     <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
         <div class="modal-dialog" role="document">

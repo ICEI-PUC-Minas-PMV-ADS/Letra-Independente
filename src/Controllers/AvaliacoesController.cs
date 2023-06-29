@@ -62,7 +62,7 @@ namespace src.Controllers
             {
                 _context.Add(avaliacao);
                 await _context.SaveChangesAsync();
-                return View(avaliacao);
+                return RedirectToAction("Index", "Avaliacoes");
             }
             ViewData["IdTexto"] = new SelectList(_context.Texto, "Id", "Artigo", avaliacao.IdTexto);
             return View(avaliacao);
